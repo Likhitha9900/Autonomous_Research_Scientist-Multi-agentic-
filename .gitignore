@@ -9,6 +9,11 @@ backend/venv/
 backend/myenv/
 backend/__pycache__/
 
+# Virtual environments
+myenv/
+venv/
+.venv/
+
 # General
 .env
 *.log
